@@ -1,36 +1,36 @@
-	 Token   No :01  |            #  ------->  |           Special Symbol    
-	 Token   No :02  |      include  ------->  |  Pre-Processor Directive    
-	 Token   No :03  |            <  ------->  |                 Operator , LSHFT    
-	 Token   No :04  |     iostream  ------->  |                  Library    
-	 Token   No :05  |            >  ------->  |                 Operator , RSHFT    
-	 Token   No :06  |            #  ------->  |           Special Symbol    
-	 Token   No :07  |       define  ------->  |  Pre-Processor Directive    
-	 Token   No :08  |        LIMIT  ------->  |                 Variable ,  POINTER TO SYMBOL TABLE    
-	 Token   No :09  |            5  ------->  |                  Integer    
-	 Token   No :10  |        using  ------->  |                 Keywords    
-	 Token   No :11  |    namespace  ------->  |                 Keywords    
-	 Token   No :12  |          std  ------->  |                 Keywords    
-	 Token   No :13  |            ;  ------->  |           Special Symbol    
-	 Token   No :14  |          int  ------->  |                 Keywords    
-	 Token   No :15  |         main  ------->  |                 Keywords    
-	 Token   No :16  |            (  ------->  |           Special Symbol    
-	 Token   No :17  |            )  ------->  |           Special Symbol    
-	 Token   No :18  |            {  ------->  |           Special Symbol    
-	 Token   No :19  |          int  ------->  |                 Keywords    
-	 Token   No :20  |            A  ------->  |                 Variable ,  POINTER TO SYMBOL TABLE    
-	 Token   No :21  |            ,  ------->  |           Special Symbol    
-	 Token   No :22  |            B  ------->  |                 Variable ,  POINTER TO SYMBOL TABLE    
-	 Token   No :23  |            ;  ------->  |           Special Symbol    
-	 Token   No :24  |          cin  ------->  |                 Keywords    
-	 Token   No :25  |           >>  ------->  |                 Operator , INS    
-	 Token   No :26  |            A  ------->  |                 Variable ,  POINTER TO SYMBOL TABLE    
-	 Token   No :27  |           >>  ------->  |                 Operator , INS    
-	 Token   No :28  |            B  ------->  |                 Variable ,  POINTER TO SYMBOL TABLE    
-	 Token   No :29  |            ;  ------->  |           Special Symbol    
-	 Token   No :30  |         cout  ------->  |                 Keywords    
-	 Token   No :31  |           <<  ------->  |                 Operator , EXTR    
-	 Token   No :32  |            A  ------->  |                 Variable ,  POINTER TO SYMBOL TABLE    
-	 Token   No :33  |            *  ------->  |                 Operator , MUL    
-	 Token   No :34  |            B  ------->  |                 Variable ,  POINTER TO SYMBOL TABLE    
-	 Token   No :35  |            ;  ------->  |           Special Symbol    
-	 Token   No :36  |            }  ------->  |           Special Symbol    
+	 Number of Token = 01            #             Special Symbol    
+	 Number of Token = 02      include    Pre-Processor Directive    
+	 Number of Token = 03          <            operationerator , LESS    
+	 Number of Token = 04     iostream                    Library    
+	 Number of Token = 05          >            operationerator , GREATER    
+	 Number of Token = 06            #             Special Symbol    
+	 Number of Token = 07       define    Pre-Processor Directive    
+	 Token   No :08       LIMIT                  Variable
+	 Number of Token = 09            5                    Integer    
+	 Number of Token = 10         using                   Keywords    
+	 Number of Token = 11     namespace                   Keywords    
+	 Number of Token = 12           std                   Keywords    
+	 Number of Token = 13             ;             Special Symbol    
+	 Number of Token = 14           int                   Keywords    
+	 Number of Token = 15          main                   Keywords    
+	 Number of Token = 16             (             Special Symbol    
+	 Number of Token = 17             )             Special Symbol    
+	 Number of Token = 18             {             Special Symbol    
+	 Number of Token = 19           int                   Keywords    
+	 Number of Token = 20            A                   Variable                  
+	 Number of Token = 21             ,             Special Symbol    
+	 Number of Token = 22            B                   Variable                  
+	 Number of Token = 23             ;             Special Symbol    
+	 Number of Token = 24           cin                   Keywords    
+	 Number of Token = 25           >>            operationerator , RSHFT    
+	 Number of Token = 26            A                   Variable                  
+	 Number of Token = 27           >>            operationerator , RSHFT    
+	 Number of Token = 28            B                   Variable                  
+	 Number of Token = 29             ;             Special Symbol    
+	 Number of Token = 30          cout                   Keywords    
+	 Number of Token = 31           <<            operationerator , LSHFT    
+	 Number of Token = 32            A                   Variable                  
+	 Number of Token = 33            *            operationerator , MUL    
+	 Number of Token = 34            B                   Variable                  
+	 Number of Token = 35             ;             Special Symbol    
+	 Number of Token = 36             }             Special Symbol    
